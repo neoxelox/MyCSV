@@ -1,0 +1,25 @@
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\bin\Debug\test metro ui.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\bin\Debug\test metro ui.exe
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\bin\Debug\test metro ui.pdb
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\bin\Debug\test metro ui.xml
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\bin\Debug\MetroFramework.Design.dll
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\bin\Debug\MetroFramework.dll
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\bin\Debug\MetroFramework.Fonts.dll
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\obj\Debug\test metro ui.vbprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\obj\Debug\test metro ui.vbproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\bin\Debug\MyCSV.exe.config
+c:\users\alex\Desktop\MyCSV\MyCSV.exe.config
+c:\users\alex\Desktop\MyCSV\MyCSV.exe
+c:\users\alex\Desktop\MyCSV\MyCSV.pdb
+c:\users\alex\Desktop\MyCSV\MyCSV.xml
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\obj\Debug\MyCSV.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\obj\Debug\MyCSV.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\obj\Debug\MyCSV.exe
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\obj\Debug\MyCSV.xml
+c:\users\alex\documents\visual studio 2013\Projects\test metro ui\test metro ui\obj\Debug\MyCSV.pdb
+C:\Users\ALEX\Documents\Visual Studio 2013\Projects\test metro ui\test metro ui\obj\Debug\MyCSV.search.resources
+C:\Users\ALEX\Documents\Visual Studio 2013\Projects\test metro ui\test metro ui\obj\Debug\MyCSV.fedit.resources
+C:\Users\ALEX\Desktop\MyCSV 1.6\MyCSV\MyCSV.exe.config
+C:\Users\ALEX\Desktop\MyCSV 1.6\MyCSV\MyCSV.exe
+C:\Users\ALEX\Desktop\MyCSV 1.6\MyCSV\MyCSV.pdb
+C:\Users\ALEX\Desktop\MyCSV 1.6\MyCSV\MyCSV.xml
